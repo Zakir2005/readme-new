@@ -102,10 +102,10 @@ https://www.bhmsbd.blogspot.com
 
 <img src="img/heli.jpg" type="img/jpg" title="helicoptor">
 
-image.png
+
 
 ![heli](./img/heli.jpg)
-image.png
+
 
 😊
 <br>
